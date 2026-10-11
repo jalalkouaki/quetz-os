@@ -1,0 +1,7 @@
+# Ignore ISO files — too large for GitHub
+*.iso
+*.sha256
+
+# Ignore build artifacts
+quetz-build/
+live-image-*.iso
