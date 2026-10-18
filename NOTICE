@@ -1,0 +1,42 @@
+Quetz GNU/Linux
+Copyright (c) 2025-2026 Jalal Kouaki
+
+This project is licensed under the MIT License — see the LICENSE file for the
+full text.
+
+THIRD-PARTY NOTICES
+
+1. Oxcy mascot
+
+   The Oxcy mascot image (associated with Kiss Land) is the property of its
+   respective rights holders. It is NOT covered by the MIT License.
+
+   It is included in this project as a visual identifier only, purely out of
+   personal appreciation for the artwork and its aesthetic. No copyright
+   infringement is intended.
+
+   Quetz GNU/Linux is an independent personal portfolio project and is not
+   affiliated with, endorsed by, sponsored by, or associated with the
+   original creators, artists, labels, or any rights holders connected to
+   Kiss Land, Oxcy, The Weeknd, XO, or Republic Records.
+
+   All trademarks and copyrights related to Oxcy and Kiss Land remain the
+   property of their respective owners. If any rights holder has concerns
+   about the use of the mascot in this project, please open an issue on the
+   project repository and it will be addressed promptly.
+
+2. Debian GNU/Linux base
+
+   Quetz GNU/Linux is a derivative of Debian GNU/Linux. All Debian packages,
+   binaries, and associated data inherit their upstream licenses as published
+   by the Debian Project (Debian, GNU, Apache, BSD, MIT, or other licenses).
+   The MIT License in this repository applies only to the build recipes,
+   custom scripts, and the Quetz programming language authored by Jalal Kouaki.
+
+3. Upstream runtimes and tools
+
+   Python, Node.js, Go, Rust, Java, GCC, Ruby, PHP, Perl, Lua, Firefox ESR,
+   Thunderbird, XFCE, Calamares, Plymouth, and all other third-party software
+   included in the Quetz GNU/Linux image retain their own upstream licenses.
+   Refer to each package's /usr/share/doc/<package>/copyright file inside the
+   installed system for the exact terms.

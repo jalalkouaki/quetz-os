@@ -1,6 +1,6 @@
-# MIT License
+MIT License
 
-Copyright (c) 2026 Jalal Kouaki
+Copyright (c) 2025-2026 Jalal Kouaki
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-# Third-Party Notices & Upstream Licensing:
-Quetz GNU/Linux is built upon Debian GNU/Linux and integrates various third-party
-open-source packages, artwork, fonts, and system components. Each upstream component
-is distributed under its respective open-source license (such as GPL, LGPL, MIT,
-BSD, Apache, and the Debian Free Software Guidelines). This MIT License applies to the
-distribution orchestration scripts, custom configuration recipes, branding assets,
-and the Quetz programming language interpreter created for Quetz GNU/Linux.
